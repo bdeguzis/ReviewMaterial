@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grokking", "Grokking\Grokking.csproj", "{4BE4AFFF-646B-4715-8D39-BCA73503496C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary_Search", "Binary_Search\Binary_Search.csproj", "{7393FB7E-1487-4595-B23A-48959BFA6E6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4BE4AFFF-646B-4715-8D39-BCA73503496C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4BE4AFFF-646B-4715-8D39-BCA73503496C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4BE4AFFF-646B-4715-8D39-BCA73503496C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4BE4AFFF-646B-4715-8D39-BCA73503496C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7393FB7E-1487-4595-B23A-48959BFA6E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7393FB7E-1487-4595-B23A-48959BFA6E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7393FB7E-1487-4595-B23A-48959BFA6E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7393FB7E-1487-4595-B23A-48959BFA6E6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
