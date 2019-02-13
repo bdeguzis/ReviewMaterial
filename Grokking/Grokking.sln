@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary_Search", "Binary_Sea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selection_Sort", "Selection_Sort\Selection_Sort.csproj", "{4CED704A-86D5-44A9-B1DF-59440F90F0F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoneNumber", "LoneNumber\LoneNumber.csproj", "{BBFBECFB-22EF-4F20-A4C3-8C72C0016F20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4CED704A-86D5-44A9-B1DF-59440F90F0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CED704A-86D5-44A9-B1DF-59440F90F0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CED704A-86D5-44A9-B1DF-59440F90F0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBFBECFB-22EF-4F20-A4C3-8C72C0016F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFBECFB-22EF-4F20-A4C3-8C72C0016F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFBECFB-22EF-4F20-A4C3-8C72C0016F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFBECFB-22EF-4F20-A4C3-8C72C0016F20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
