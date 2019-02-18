@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive_Sum", "Recursive_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveCount", "RecursiveCount\RecursiveCount.csproj", "{9CDFE55E-23BC-435F-B8DA-64F0760DCD92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive_Max_Num", "Recursive_Max_Num\Recursive_Max_Num.csproj", "{F1977ACF-3954-49F8-8CD3-BE26BC362A60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9CDFE55E-23BC-435F-B8DA-64F0760DCD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CDFE55E-23BC-435F-B8DA-64F0760DCD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CDFE55E-23BC-435F-B8DA-64F0760DCD92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1977ACF-3954-49F8-8CD3-BE26BC362A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1977ACF-3954-49F8-8CD3-BE26BC362A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1977ACF-3954-49F8-8CD3-BE26BC362A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1977ACF-3954-49F8-8CD3-BE26BC362A60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
