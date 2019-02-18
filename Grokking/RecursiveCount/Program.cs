@@ -9,16 +9,14 @@ namespace RecursiveCount
     class Program
     {
         //Write a recursive function to count the number of items in a list.
-        static int count = 0;
         static int countList(int[] items)
         {
             if (items.Length == 0)
-                return count;
+                return 0;
             else 
             {
-                count++;
                 int[] newArray = items.Skip(1).Take(items.Length).ToArray();
-                return countList(newArray);
+                return 1 + countList(newArray);
             }
 
         }
