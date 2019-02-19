@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive_Max_Num", "Recurs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{C159640B-A820-4C51-B380-7F1F91ECA93E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTables", "HashTables\HashTables.csproj", "{ACEBE4CC-7F23-4F7E-AAC1-CBA069411EF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C159640B-A820-4C51-B380-7F1F91ECA93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C159640B-A820-4C51-B380-7F1F91ECA93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C159640B-A820-4C51-B380-7F1F91ECA93E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACEBE4CC-7F23-4F7E-AAC1-CBA069411EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACEBE4CC-7F23-4F7E-AAC1-CBA069411EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACEBE4CC-7F23-4F7E-AAC1-CBA069411EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACEBE4CC-7F23-4F7E-AAC1-CBA069411EF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
